@@ -27,7 +27,7 @@ Firstly you need to open two Terminals in order to run the frontend and the back
 
 
 
-## Computer version
+## Desktop version
 ![App Screenshot](https://www.linkpicture.com/q/Capture-d-ecran_20230214_160652.png)
 
 ![App Screenshot](https://www.linkpicture.com/q/Capture-d-ecran_20230214_160858.png)
