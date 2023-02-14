@@ -1,4 +1,4 @@
-const port = require('../server')
+const {port} = require('../server')
 const path = require('path')
 
 
